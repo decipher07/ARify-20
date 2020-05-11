@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # ARify-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+=======
+# ARify-20
+>>>>>>> 8d622e286d88eb3e158a75bb54367f2efdb6773d
 An Ar Android Application which Visualizes and Sets up the Environment for 3D Models
 
 
