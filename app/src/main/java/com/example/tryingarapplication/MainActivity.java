@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private ArFragment arFragment ;
 
     private void addModelToScene (Anchor anchor , ModelRenderable modelRenderable){
-        AnchorNode anchorNode = new AnchorNode();
+        AnchorNode anchorNode = new AnchorNode(anchor);
         TransformableNode transformableNode = new TransformableNode(arFragment.getTransformationSystem());
         transformableNode.setParent(anchorNode);
         transformableNode   .setRenderable(modelRenderable);
