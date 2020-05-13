@@ -1,2 +1,2 @@
+rootProject.name='Dynamic AR'
 include ':app'
-rootProject.name='TryingArApplication'

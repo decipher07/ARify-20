@@ -1,4 +1,4 @@
-package com.example.tryingarapplication;
+package com.example.dynamicar;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.tryingarapplication", appContext.getPackageName());
+        assertEquals("com.example.dynamicar", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.example.tryingarapplication;
+package com.example.dynamicar;
 
 import org.junit.Test;
 
